@@ -1,7 +1,7 @@
 # MentalHealthCapyBara
 MindMate - A student mental health companion app that provides mood tracking, self-care tools, and smart calendar reminders to help students manage stress and improve mental well-being.
 
-# 🌱 MindMate – Student Mental Health Companion
+# 🌱 MindMate - Student Mental Health Companion
 
 MindMate is a student-focused mental health companion app designed to help university students track their emotions, practice self-care, and manage stress proactively.
 
@@ -37,15 +37,6 @@ MindMate bridges this gap by providing an **accessible, stigma-free, and proacti
 - **APIs:** 
   - [Google Calendar API](https://developers.google.com/calendar)
   - [OpenAI API](https://platform.openai.com/)  
-
----
-
-## 📸 Screenshots
-
-| Welcome Screen | Mood Check-in | Mood History |
-|---------------|---------------|-------------|
-| ![Welcome](docs/welcome.png) | ![Check-in](docs/checkin.png) | ![History](docs/history.png) |
-
 
 ---
 
