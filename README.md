@@ -43,7 +43,7 @@ MindMate bridges this gap by providing an **accessible, stigma-free, and proacti
 
 | Welcome Screen | Mood Check-in | Mood History |
 |---------------|---------------|-------------|
-| ![Home Screen](docs/home.png) | ![Mood Check-in](docs/Moodcheckin.png) | ![AI Analysis](docs/Ai_Analysis_Suggestions.png) |
+| ![Home Screen](docs/Home.png) | ![Mood Check-in](docs/Moodcheckin.png) | ![AI Analysis](docs/Ai_Analysis_Suggestions.png) |
 
 _Add screenshots of your Figma screens into a `/docs` folder and link them here._
 
