@@ -60,6 +60,9 @@ _Add screenshots of your Figma screens into a `/docs` folder and link them here.
 ## 👨‍💻 Team
 
 **Team CapyBaraDevs**  
+@kaymansrinivasan
+@macpranesh
+@pavithiranr
 
 ---
 
