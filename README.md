@@ -16,10 +16,10 @@ MindMate bridges this gap by providing an **accessible, stigma-free, and proacti
 
 ## ✨ Features
 
-- **Mood Check-in** – Quick, emoji-based mood logging in seconds  
-- **Mood History** – Visual trends to spot patterns in emotional well-being  
-- **Self-Care Calendar** – Syncs with deadlines/exams and sends timely nudges  
-- **AI Chat & Suggestions** – Guided breathing, motivational tips, and personalized self-care recommendations  
+- **Mood Check-in** - Quick, emoji-based mood logging in seconds  
+- **Mood History** - Visual trends to spot patterns in emotional well-being  
+- **Self-Care Calendar** - Syncs with deadlines/exams and sends timely nudges  
+- **AI Chat & Suggestions** - Guided breathing, motivational tips, and personalized self-care recommendations  
 
 ---
 
